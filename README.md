@@ -1,2 +1,3 @@
 # HelloCG
+This is a VS Code project...
 My first OpenGL repo :))) hayirli olsun
